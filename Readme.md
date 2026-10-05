@@ -2,7 +2,7 @@
 
 # Ange IRIE BI
 
-**Cloud · DevOps · Systèmes** — Toulouse, France
+**Administrateur système, Réseau,  Cloud · DevOps · Systèmes** —  France
 
 [![Alternance](https://img.shields.io/badge/Alternance%202%20ans-Dispo%20sept.%202026-2ea44f?style=for-the-badge)](https://linkedin.com/in/angeiriebi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angeiriebi)
@@ -68,14 +68,13 @@ durcissement selon les recommandations ANSSI.
 2022 – 2025   Développeur web — 15+ projets livrés, 2 applis métier en production
 ```
 
-Je viens du développement. C'est pour ça que je sais ce qu'une équipe attend
-d'une plateforme : je l'ai attendue moi-même pendant trois ans.
+
 
 <br>
 
 <div align="center">
 
-**Une infra à automatiser ? Une équipe qui cherche un alternant ?**
+**Une infra à automatiser ? Un système a administrer ?  Une équipe qui cherche un alternant ?**
 
 [![Mail](https://img.shields.io/badge/iriebiange01@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:iriebiange01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/angeiriebi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/angeiriebi)
